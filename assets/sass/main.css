@@ -1896,7 +1896,7 @@ button:active,
     padding: 0 2em 0 2em;
   }
   h1 {
-    font-size: 1.2em;
+    display: none;
   }
   /* Item */
   .item {
