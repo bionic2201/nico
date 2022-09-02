@@ -1796,6 +1796,9 @@ button:active,
 
 /* Wide */
 @media screen and (min-width: 961px) and (max-width: 1880px) {
+  h1 {
+    font-size: 1.4em;
+  }
   /* Basic */
   body, input, textarea, select {
     font-size: 17pt;
@@ -1815,6 +1818,9 @@ button:active,
 }
 /* Normal */
 @media screen and (min-width: 961px) and (max-width: 1620px) {
+  h1 {
+    font-size: 1.2em;
+  }
   /* Main */
   #main > section {
     padding: 3em 0;

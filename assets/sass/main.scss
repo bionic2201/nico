@@ -820,6 +820,10 @@
 
 	@include breakpoint('wide') {
 
+		h1 {
+			font-size: 1.4em;
+		}
+
 		/* Basic */
 
 			body, input, textarea, select {
@@ -849,6 +853,10 @@
 /* Normal */
 
 	@include breakpoint('normal') {
+
+		h1 {
+			font-size: 1.2em;
+		}
 
 		/* Main */
 
