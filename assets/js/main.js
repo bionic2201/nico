@@ -20,11 +20,11 @@
 		});
 
 	// Play initial animations on page load.
-		$window.on('load', function() {
-			window.setTimeout(function() {
-				$body.removeClass('is-preload');
-			}, 100);
-		});
+	//	$window.on('load', function() {
+		//	window.setTimeout(function() {
+		//		$body.removeClass('is-preload');
+	//		}, 100);
+	//	});
 
 	// Nav.
 		var $nav_a = $nav.find('a');
@@ -63,7 +63,7 @@
 
 				// Scrollex.
 					$section.scrollex({
-						mode: 'top',
+						mode: 'middle',
 						top: '-10vh',
 						bottom: '-10vh',
 						initialize: function() {
