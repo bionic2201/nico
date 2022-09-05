@@ -243,7 +243,9 @@
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
 	}
-	p {text-align: left;}
+	p {text-align: left;
+	margin-left: 1em;
+margin-right: 1em;}
 
 	br.clear {
 		clear: both;

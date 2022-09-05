@@ -4,7 +4,12 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-AOS.init();
+AOS.init({
+  offset: 200,
+  duration: 600,
+  easing: "ease-in",
+  delay: 50,
+});
 
 
 (function($) {

@@ -205,6 +205,8 @@ p, ul, ol, dl, table {
 
 p {
   text-align: left;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 br.clear {
