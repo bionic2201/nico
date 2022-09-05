@@ -176,7 +176,7 @@
 
 	header {
 		
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 
 		> p {
 			margin: 1em 0 0 0;
@@ -186,8 +186,9 @@
 	.hero {
 		color:#222629;
 		font-weight: 800;
-		width: 40%;
-		margin: 2em
+		width: 65%;
+		margin-top: 3em;
+		text-align: left
 	}
 
 	footer {
@@ -242,6 +243,7 @@
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
 	}
+	p {text-align: left;}
 
 	br.clear {
 		clear: both;
@@ -973,7 +975,7 @@
 
 			header {
 				br {
-					display: none;
+					display:block;
 				}
 			}
 
@@ -982,7 +984,7 @@
 			}
 
 			h1 {
-				display: none;
+				font-size: 1.8em;
 			}
 
 		/* Item */
@@ -1126,9 +1128,20 @@
 					}
 						&.one {
 				background-color: #81918E;
-				background-image: url('../../images/f.jpg');
+				background-image: url('../../images/g.jpg');
 				height: 100vh;
 				width: auto;
+			
+				
+			}
+			&.five {
+				background-color: #e9e6e6e8;
+				background-image:none;
+				background-position: 90% 20%;
+				background-repeat: no-repeat;
+				background-size: 40%;
+			
+				
 			
 				
 			}
@@ -1147,7 +1160,7 @@
 			}
 
 			h1 {
-				font-size: 1.2em;
+				font-size: 1.7em;
 			}
 
 			h2 {

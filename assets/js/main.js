@@ -4,6 +4,9 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+AOS.init();
+
+
 (function($) {
 
 	var	$window = $(window),
@@ -65,7 +68,7 @@
 					$section.scrollex({
 						mode: 'middle',
 						top: '-10vh',
-						bottom: '-10vh',
+						bottom: '10vh',
 						initialize: function() {
 
 							// Deactivate section.
