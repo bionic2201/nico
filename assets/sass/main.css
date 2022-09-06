@@ -2066,9 +2066,10 @@ button:active,
     font-size: 2.3em;
   }
   h2 {
-    font-size: 1.5em;
+    font-size: 1.8em;
     letter-spacing: 0;
-    font-weight: 300;
+    font-weight: 600;
+    padding: 0.5em;
   }
   header {
     margin: 0 0 0.5em 0;

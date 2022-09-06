@@ -5,12 +5,14 @@
 */
 
 AOS.init({
-  offset: 200,
+  offset: 150,
   duration: 400,
   easing: "ease-out",
-  delay: 10,
+  delay: 50,
 });
 
+var image = document.getElementsByClassName("para");
+new simpleParallax(image);
 
 (function($) {
 
