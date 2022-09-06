@@ -12,7 +12,10 @@ AOS.init({
 });
 
 var image = document.getElementsByClassName("para");
-new simpleParallax(image);
+new simpleParallax(image, {
+	scale: 1.4,
+	overflow:true
+});
 
 (function($) {
 
