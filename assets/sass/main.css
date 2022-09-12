@@ -144,6 +144,12 @@ h4 {
   font-weight: 900;
 }
 
+h5 {
+  font-size: 1.4em;
+  text-align: right;
+  font-weight: 900;
+}
+
 header {
   margin: 0 0 1em 0;
 }
