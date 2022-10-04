@@ -1712,6 +1712,29 @@ button:active,
   text-align: left;
 }
 
+#impressum p {
+  text-align: center;
+}
+#impressum ul {
+  list-style: disc;
+  text-align: left;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+#impressum h3 {
+  margin-bottom: 1em;
+  margin-top: 1em;
+  text-align: left;
+}
+#impressum h1 {
+  margin-bottom: 1em;
+}
+#impressum h2 {
+  margin-bottom: 1em;
+  margin-top: 1em;
+  text-align: left;
+}
+
 #nav ul {
   list-style: none;
   padding-left: 0;
