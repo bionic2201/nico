@@ -1670,7 +1670,7 @@ button:active,
   min-height: 48px;
   cursor: default;
 }
-#logo h1 {
+#logo h2 {
   text-align: left;
   position: relative;
   color: #fff;
@@ -1712,6 +1712,9 @@ button:active,
   text-align: left;
 }
 
+#impressum h3 {
+  font-weight: 900;
+}
 #impressum p {
   text-align: center;
 }
