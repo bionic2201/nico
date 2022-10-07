@@ -1846,7 +1846,7 @@ button:active,
 }
 #main > section.one {
   background-color: #81918E;
-  background-image: url("../../images/d.jpg");
+  background-image: url("../../images/nico-stank-hero.jpg");
   height: 100vh;
   width: auto;
 }
@@ -1862,7 +1862,7 @@ button:active,
 }
 #main > section.five {
   background-color: rgba(233, 230, 230, 0.9098039216);
-  background-image: url(/images/Nico\ Stank\ Quadrat\ Live-min.jpg);
+  background-image: url(/images/nico-stank-live-tour.jpg);
   background-position: 90% 20%;
   background-repeat: no-repeat;
   background-size: 40%;
@@ -2101,7 +2101,7 @@ button:active,
   }
   #main section.one {
     background-color: #81918E;
-    background-image: url("../../images/g.jpg");
+    background-image: url("../../images/nico-stank-hero-mobile.jpg");
     height: 100vh;
     width: auto;
   }
